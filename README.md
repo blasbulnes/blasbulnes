@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blasbulnes
-- 👀 I’m interested in Ux/Ui Design, Digital Design, Vector Graphics, Gigital Art. 
+- 👀 I’m interested in Ux/Ui Design, Digital Design, Vector Graphics, Digital Art. 
 - 🌱 I’m currently learning Vector Graphics and Javasript
 - 💞️ I’m looking to collaborate on professional projects where I can keep on developing my skills. 
 - 📫 Email: blasbulnes@gmail.com
